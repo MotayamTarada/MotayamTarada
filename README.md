@@ -44,11 +44,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![IIS](https://img.shields.io/badge/IIS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Onion Architecture Logo](https://img.shields.io/badge/OnionArchitecture?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
-🖥️ Other Tools : 
-![IIS Manager Logo](images/iis-manager-logo.png)
-![Onion Architecture Logo](images/onion-architecture-logo.png)
 
 ## 📈 Projects & Contributions  
 
