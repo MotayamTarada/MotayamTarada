@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🎓 **Computer Science student at Birzeit University**  
-- 💡 Passionate about **Software Engineering, Data Science, and Machine Learning**  
+- 💡 Passionate about **Software Engineering, Data Science*  
 - 🏗️ Experienced in **Full-Stack Development (ASP.NET Core, React.js, Python, Java, MySQL)**  
 - 💼 **Trained at Progineer Technology** in **React.js, Linux, and Software Development Life Cycle**  
 
@@ -24,6 +24,7 @@
 
 ### 🛠️ Frameworks & Libraries  
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET (MVC)](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
@@ -61,8 +62,8 @@
 
 ## 📚 Learning & Interests  
 
-- 🤖 **Data Science, Machine Learning, and AI**  
-- 🌍 **Full-Stack Web Development**  
+- 🌍 **Full-Stack Web Development** 
+- 🤖 **Data Science**   
 - 🔥 **Open-Source Contributions**  
 
 ---
