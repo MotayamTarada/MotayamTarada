@@ -9,8 +9,12 @@
 ## 🚀 About Me  
 - 🎓 **Computer Science student at Birzeit University**  
 - 💡 Passionate about **Software Engineering, Data Science*  
-- 🏗️ Experienced in **Full-Stack Development (ASP.NET Core, React.js, Python, Java, MySQL)**  
-- 💼 **Trained at Progineer Technology** in **React.js, Linux, and Software Development Life Cycle**  
+- 🏗️ Experienced in **Full-Stack Development (ASP.NET Core, React.js, Python, Java, MySQL)**
+- 🏅Completed a 40-hour training course on ASP.NET MVC and MySQL server.
+- 🏅Completed a 40-hour advanced course on ASP.NET Core.
+- 💼**Trained at Rajaa Training Company for ASP.NET MVC**.
+- 💼**Trained at Rajaa Training Company for ASP.NET Core**.
+- 💼**Trained at Progineer Technology** in **React.js, Linux, and Software Development Life Cycle**  
 
 ---
 
