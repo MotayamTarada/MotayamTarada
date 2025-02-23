@@ -1,5 +1,5 @@
 # 🖥️ Motayam Tayseer Tarada  
-📍 **Computer Science Student | Software Engineer | Data Science Enthusiast**  
+📍 **Computer Science Student | Software Engineer | Web devoloment & Data Science Enthusiast**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-MotayamTarada-black?style=for-the-badge&logo=github)](https://github.com/MotayamTarada/MotayamTarada)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MotayamTarada-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/motayam-tarada-3ba5222b7)  
