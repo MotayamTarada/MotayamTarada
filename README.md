@@ -46,6 +46,9 @@
 ![IIS](https://img.shields.io/badge/IIS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)  
 
 ---
+🖥️ Other Tools : 
+![IIS Manager Logo](images/iis-manager-logo.png)
+![Onion Architecture Logo](images/onion-architecture-logo.png)
 
 ## 📈 Projects & Contributions  
 
